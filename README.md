@@ -1,4 +1,5 @@
 steps
+
 Create Ubuntu server -> T2 medium, 30 GB
 
 Install Jenkins on ubuntu server. -
